@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "gesturetalk",
+			"path": "../gesturetalk"
+		}
+	],
+	"settings": {
+		"python.defaultInterpreterPath": "C:\\Users\\navra\\AppData\\Local\\Programs\\Python\\Python311\\python.exe"
+	}
+}
